@@ -57,10 +57,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargi-verma13232&hide_border=true&background=0D1B2A&ring=64FFDA&fire=48CAE4&currStreakLabel=64FFDA&stroke=1B4965&sideLabels=A8DADC&currStreakNum=A8DADC&sideNums=A8DADC&dates=A8DADC" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gargi-verma13232&theme=react-dark&bg_color=0D1B2A&color=64FFDA&line=48CAE4&point=A8DADC&hide_border=true" />
 </div>
 
