@@ -8,18 +8,7 @@
 
 </div>
 
-<br/>
 
-## 🌊 About Me
-
-- 🎓 I'm a **student**, still exploring what I love in tech
-- 💻 Comfortable across **web dev, Python tooling, and cloud basics**
-- 🌱 Always learning — one repo, one bug, one `git commit` at a time
-- 🧩 Practicing problem solving on **LeetCode**
-- 📝 Keeping notes and workflow organized in **Notion**
-- 📬 Reach out — details below!
-
-<br/>
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/gargi-verma13232/gargi-verma13232/main/assets/ocean-divider.svg" />
