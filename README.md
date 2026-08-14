@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Student+%7C+Still+exploring+tech;Currently+diving+into+Python+%26+React;Learning+something+new+every+day" alt="Typing SVG" />
 </a>
 
-</div>
-
-
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/gargi-verma13232/gargi-verma13232/main/assets/ocean-divider.svg" />
-</div>
-
 <br/>
 
 ## 🛠️ Tech Stack
