@@ -6,44 +6,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Student+%7C+Still+exploring+tech;Currently+diving+into+Python+%26+React;Learning+something+new+every+day" alt="Typing SVG" />
 </a>
 
+</div>
+
 <br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&duration=1&repeat=false&color=64FFDA&center=true&vCenter=true&width=300&lines=Tech+Stack" />
+</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,tailwind,git,github,figma,vscode,linux,aws,vercel,netlify&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,git,github,linux,vercel,netlify,figma&theme=dark&perline=6" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=canva&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=pandas&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=numpy&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=plotly&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=gnubash&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=notion&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=markdown&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=leetcode&logoColor=64FFDA" />
+
 <img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=discord&logoColor=64FFDA" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gargi-verma13232&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=64FFDA&icon_color=48CAE4&text_color=A8DADC&ring_color=64FFDA" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargi-verma13232&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=64FFDA&text_color=A8DADC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&duration=1&repeat=false&color=64FFDA&center=true&vCenter=true&width=560&lines=Isometric+Contribution+Graph" />
 </div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gargi-verma13232&theme=react-dark&bg_color=0D1B2A&color=64FFDA&line=48CAE4&point=A8DADC&hide_border=true" />
-</div>
-
-<br/>
-
-## 🧊 Isometric Contribution Graph
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/gargi-verma13232/gargi-verma13232/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -53,7 +40,9 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&duration=1&repeat=false&color=64FFDA&center=true&vCenter=true&width=400&lines=Contribution+Snake" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gargi-verma13232/gargi-verma13232/output/github-contribution-grid-snake-dark.svg" />
@@ -61,7 +50,9 @@
 
 <br/>
 
-## 📫 Let's Connect
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=30&duration=1&repeat=false&color=64FFDA&center=true&vCenter=true&width=320&lines=Let's+Connect" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gargi-verma132" target="_blank">
@@ -70,7 +61,6 @@
   <a href="mailto:gargi13232@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-gargiverma26-0D1B2A?style=for-the-badge&logo=discord&logoColor=48CAE4" />
 </p>
 
 <br/>
